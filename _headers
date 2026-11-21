@@ -1,0 +1,8 @@
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+/admin/*
+  X-Robots-Tag: noindex
+/proxima.json
+  Cache-Control: no-store
+/version.json
+  Cache-Control: no-store

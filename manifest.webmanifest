@@ -1,0 +1,27 @@
+{
+  "name": "El Contrapeso",
+  "short_name": "Contrapeso",
+  "description": "Noticias, análisis y opinión con firmas visibles y tiempo para el contexto y para aplicar la piscología y el sentido común.",
+  "start_url": "/",
+  "display": "browser",
+  "lang": "es",
+  "background_color": "#f4efe6",
+  "theme_color": "#171817",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

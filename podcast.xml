@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>El Contrapeso</title>
+<link>https://elcontrapeso.com/podcast/</link>
+<description>Noticias, análisis y opinión con firmas visibles y tiempo para el contexto y para aplicar la piscología y el sentido común.</description>
+<language>es-es</language>
+<atom:link href="https://elcontrapeso.com/podcast.xml" rel="self" type="application/rss+xml"/>
+<itunes:author>El Contrapeso</itunes:author>
+<itunes:owner><itunes:name>El Contrapeso</itunes:name><itunes:email>info@elcontrapeso.com</itunes:email></itunes:owner>
+<itunes:image href="https://elcontrapeso.com/podcast-cover.jpg"/>
+<itunes:category text="News"/>
+<itunes:explicit>false</itunes:explicit>
+
+</channel>
+</rss>
